@@ -65,7 +65,7 @@ JOIN fantasy.users AS u ON e.id = u.id
 WHERE amount != 0
 GROUP BY i.game_items
 ORDER BY COUNT(transaction_id) DESC
-LIMIT 20 
+LIMIT 20;
 
 -- Часть 2. Решение ad hoc-задачи
 -- Задача: Зависимость активности игроков от расы персонажа:

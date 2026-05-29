@@ -123,3 +123,4 @@
 
 - dark_forest_analysis.sql — SQL-запросы проекта;
 - README.md — описание проекта;
+- schema.png — схема базы данных.

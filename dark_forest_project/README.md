@@ -125,4 +125,3 @@
 
 - dark_forest_analysis.sql — SQL-запросы проекта;
 - README.md — описание проекта;
-![Схема базы данных](images/schema.png).

@@ -36,6 +36,7 @@
 
 📂 Папка проекта: real_estate_market_analysis
 
+---
 
 ### 3. Анализ конференций TED
 

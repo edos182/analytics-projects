@@ -1,2 +1,2 @@
 # sql-analytics-projects
-SQL-проект по анализу
+SQL-проекты по анализу
